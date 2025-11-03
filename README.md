@@ -1,5 +1,4 @@
 ## Hi there 👋
-I am DevOps Automation Developer
 
 <!--
 **gaurav202511/gaurav202511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
